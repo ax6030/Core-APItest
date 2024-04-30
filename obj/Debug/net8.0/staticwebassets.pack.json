@@ -1,0 +1,65 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\JasonH\\VisaulStudioProgram\\practice\\WebAPI\\Todo\\wwwroot\\777.txt",
+      "PackagePath": "staticwebassets\\777.txt"
+    },
+    {
+      "Id": "C:\\JasonH\\VisaulStudioProgram\\practice\\WebAPI\\Todo\\wwwroot\\888.txt",
+      "PackagePath": "staticwebassets\\888.txt"
+    },
+    {
+      "Id": "C:\\JasonH\\VisaulStudioProgram\\practice\\WebAPI\\Todo\\wwwroot\\UploadFiles\\02af54d7-f59d-4e76-b744-1257757e576d\\888.txt",
+      "PackagePath": "staticwebassets\\UploadFiles\\02af54d7-f59d-4e76-b744-1257757e576d\\888.txt"
+    },
+    {
+      "Id": "C:\\JasonH\\VisaulStudioProgram\\practice\\WebAPI\\Todo\\wwwroot\\UploadFiles\\02af54d7-f59d-4e76-b744-1257757e576d\\P_20141019_101101.jpg",
+      "PackagePath": "staticwebassets\\UploadFiles\\02af54d7-f59d-4e76-b744-1257757e576d\\P_20141019_101101.jpg"
+    },
+    {
+      "Id": "C:\\JasonH\\VisaulStudioProgram\\practice\\WebAPI\\Todo\\wwwroot\\UploadFiles\\8e4e9905-0783-4f98-8cc8-0663afca89f9\\Form.txt",
+      "PackagePath": "staticwebassets\\UploadFiles\\8e4e9905-0783-4f98-8cc8-0663afca89f9\\Form.txt"
+    },
+    {
+      "Id": "C:\\JasonH\\VisaulStudioProgram\\practice\\WebAPI\\Todo\\wwwroot\\UploadFiles\\8e4e9905-0783-4f98-8cc8-0663afca89f9\\第2&3週_資料庫及資料表介紹及實作.pptx",
+      "PackagePath": "staticwebassets\\UploadFiles\\8e4e9905-0783-4f98-8cc8-0663afca89f9\\第2&3週_資料庫及資料表介紹及實作.pptx"
+    },
+    {
+      "Id": "C:\\JasonH\\VisaulStudioProgram\\practice\\WebAPI\\Todo\\wwwroot\\UploadFiles\\ab712606-4bc2-4ba0-b4b9-074f75006235\\Query.txt",
+      "PackagePath": "staticwebassets\\UploadFiles\\ab712606-4bc2-4ba0-b4b9-074f75006235\\Query.txt"
+    },
+    {
+      "Id": "C:\\JasonH\\VisaulStudioProgram\\practice\\WebAPI\\Todo\\wwwroot\\UploadFiles\\ab712606-4bc2-4ba0-b4b9-074f75006235\\Route.txt",
+      "PackagePath": "staticwebassets\\UploadFiles\\ab712606-4bc2-4ba0-b4b9-074f75006235\\Route.txt"
+    },
+    {
+      "Id": "C:\\JasonH\\VisaulStudioProgram\\practice\\WebAPI\\Todo\\wwwroot\\UploadFiles\\ab712606-4bc2-4ba0-b4b9-074f75006235\\第2&3週_資料庫及資料表介紹及實作.pptx",
+      "PackagePath": "staticwebassets\\UploadFiles\\ab712606-4bc2-4ba0-b4b9-074f75006235\\第2&3週_資料庫及資料表介紹及實作.pptx"
+    },
+    {
+      "Id": "C:\\JasonH\\VisaulStudioProgram\\practice\\WebAPI\\Todo\\wwwroot\\UploadFiles\\add71a99-267d-410c-a4ad-3fb8a9999003\\888.txt",
+      "PackagePath": "staticwebassets\\UploadFiles\\add71a99-267d-410c-a4ad-3fb8a9999003\\888.txt"
+    },
+    {
+      "Id": "C:\\JasonH\\VisaulStudioProgram\\practice\\WebAPI\\Todo\\wwwroot\\UploadFiles\\add71a99-267d-410c-a4ad-3fb8a9999003\\第2&3週_資料庫及資料表介紹及實作.pptx",
+      "PackagePath": "staticwebassets\\UploadFiles\\add71a99-267d-410c-a4ad-3fb8a9999003\\第2&3週_資料庫及資料表介紹及實作.pptx"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.Todo.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.Todo.props",
+      "PackagePath": "build\\Todo.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.Todo.props",
+      "PackagePath": "buildMultiTargeting\\Todo.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.Todo.props",
+      "PackagePath": "buildTransitive\\Todo.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
